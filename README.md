@@ -1,6 +1,6 @@
 # Library Enquiry Chat Agent Using Dialogflow
 
-A Chatbot Agent Created Using Dialogflow API and Colud Natural Language API in Google Cloud Platform. 
+A Chatbot Agent Created Using Dialogflow API and Cloud Natural Language API in Google Cloud Platform. 
 I made this while learning, "Building Conversational Experiences with Dialogflow" on Coursera.
 
 ![](LM.gif)
